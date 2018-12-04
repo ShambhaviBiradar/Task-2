@@ -10,8 +10,8 @@ public class SendMail
     { 
     	
  
-    final String user= "sonu3171995@gmail.com";
-    final String pass ="sonu@1995";
+    final String user= "abc@gmail.com";
+    final String pass ="password";
     
   
      Properties props = new Properties();
